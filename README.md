@@ -1,4 +1,8 @@
 # Compensation_Analysis
+## Tools Used
+* Python
+* Jupyter Notebook
+* Excel
 ## Introduction
 * In this project, I will be playing the role of a Data Analyst tasked with looking into compensation for the Department of Technology in San Francisco.
 * The goal is to use Excel to showcase my data analytics skillset and thought process by analyzing a mock issue within the department.
@@ -97,7 +101,7 @@
 
   <img width="226" alt="Screen Shot 2023-06-10 at 5 47 07 PM" src="https://github.com/DylanJ258/Compensation_Analysis/assets/104036750/b0e4fd8b-43a6-4551-8068-e1d610f72c1e">
 
-### Summary of Results
+### Analysis of Tables and Charts
 * Department of Technology Compensation
   * When looking at the entire Department of Technology, you can see that there has been a gradual increase in total compensation each year aside from 2022, where we see our first negative change. 
   * While this recent decrease in total compensation, mainly in the form of benefits, might look bad, it is not a massive cause for concern, and further analysis would be required to see what caused this change. 
@@ -118,6 +122,27 @@
   * Engineering jobs saw a slight decrease in total compensation in 2019, followed by increases every year from 2020-2022. 
   * These increases in total compensation for Engineering jobs resulted in the overall change within the past five years (27.9%) being well over the change in CPI (14.5%) within the same period. 
   * This shows that the Department of Technology is adjusting total compensation at a great rate regarding changes in the cost of living.
+## Conclusion
+### Summary
+* When looking at the Department of Technology as a whole, the changes in total compensation align with the changes in annual CPI. 
+* However, we see some glaring differences when narrowing down the scope by looking at job groups within the Department of Technology. 
+* Certain job groups, such as Managers and Engineers, are seeing significant increases in total compensation in regard to changes in annual CPI.
+* However, job groups such as Accountants and IT are seeing just slight increases in total compensation that are well below the changes in annual CPI.
+### Possible Solutions
+* While it is good that the Department of Technology as a whole is properly adjusting total compensation with changes in CPI, it is concerning to see the disparity between certain job groups.
+* This disparity needs to be addressed in order to make sure all employees compensation is being properly adjusted.
+* Given that the Department of Technology as a whole is in line, no additional funding would be necessary to make sure every job is receiving a fair change in compensation.
+* A reallocation of funds could be a possible solution. While this means certain groups might see smaller increases in compensation over the following years, it will also mean that other groups will be able to see increases more in line with changes in the cost of living.
+## Sources
+* Employee Compensation Data San Francisco: (https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mnd Write references of books)
+* Consumer Price Index, San Francisco Are: (https://www.bls.gov/regions/west/news-release/consumerpriceindex_sanfrancisco.htm)
+
+
+*
+
+
+
+
 
 
 
